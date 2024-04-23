@@ -13,7 +13,7 @@ int main()
     {
         ll x, y, z;
         cin>>x>>y>>z;
-        if((x+y+y)>=2) cnt++;
+        if((x+y+z)>=2) cnt++;
     }
     cout<<cnt<<'\n';
     
